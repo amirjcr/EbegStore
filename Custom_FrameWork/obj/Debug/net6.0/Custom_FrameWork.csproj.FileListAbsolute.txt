@@ -1,0 +1,12 @@
+F:\Projects\Atria\EBegStore\Custom_FrameWork\bin\Debug\net6.0\Custom_FrameWork.deps.json
+F:\Projects\Atria\EBegStore\Custom_FrameWork\bin\Debug\net6.0\Custom_FrameWork.dll
+F:\Projects\Atria\EBegStore\Custom_FrameWork\bin\Debug\net6.0\ref\Custom_FrameWork.dll
+F:\Projects\Atria\EBegStore\Custom_FrameWork\bin\Debug\net6.0\Custom_FrameWork.pdb
+F:\Projects\Atria\EBegStore\Custom_FrameWork\obj\Debug\net6.0\Custom_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Atria\EBegStore\Custom_FrameWork\obj\Debug\net6.0\Custom_FrameWork.AssemblyInfoInputs.cache
+F:\Projects\Atria\EBegStore\Custom_FrameWork\obj\Debug\net6.0\Custom_FrameWork.AssemblyInfo.cs
+F:\Projects\Atria\EBegStore\Custom_FrameWork\obj\Debug\net6.0\Custom_FrameWork.csproj.CoreCompileInputs.cache
+F:\Projects\Atria\EBegStore\Custom_FrameWork\obj\Debug\net6.0\Custom_FrameWork.dll
+F:\Projects\Atria\EBegStore\Custom_FrameWork\obj\Debug\net6.0\ref\Custom_FrameWork.dll
+F:\Projects\Atria\EBegStore\Custom_FrameWork\obj\Debug\net6.0\Custom_FrameWork.pdb
+F:\Projects\Atria\EBegStore\Custom_FrameWork\obj\Debug\net6.0\Custom_FrameWork.csproj.AssemblyReference.cache

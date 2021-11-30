@@ -1,0 +1,17 @@
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.deps.json
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\bin\Debug\net6.0\ref\ShopManagement.Domain.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\bin\Debug\net6.0\Custom_FrameWork.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\bin\Debug\net6.0\Custom_FrameWork.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.AssemblyInfo.cs
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CopyComplete
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ref\ShopManagement.Domain.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.pdb

@@ -1,0 +1,15 @@
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.deps.json
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\bin\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\bin\Debug\net6.0\Custom_FrameWork.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\bin\Debug\net6.0\Custom_FrameWork.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.pdb
