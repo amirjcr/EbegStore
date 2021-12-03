@@ -1,0 +1,27 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using ShopManagement.Domain.ProductPictuerAgg;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ShopManagement.Infrastructuer.EFCore.Mapping
+{
+    public class ProductPictureMapping : IEntityTypeConfiguration<ProductPicture>
+    {
+        public void Configure(EntityTypeBuilder<ProductPicture> builder)
+        {
+            builder.ToTable("ProductPictures");
+            builder.HasKey(p => p.Id);
+
+            builder.Property(x => x.PictureName).HasMaxLength(1000).IsRequired();
+            builder.Property(x => x.PictureAlt).HasMaxLength(500).IsRequired();
+            builder.Property(x => x.PictureTitle).HasMaxLength(500).IsRequired();
+
+
+            builder.HasOne(one => one.Product).WithMany(many => many.ProductPictures).HasForeignKey(f => f.ProdctId);
+        }
+    }
+}

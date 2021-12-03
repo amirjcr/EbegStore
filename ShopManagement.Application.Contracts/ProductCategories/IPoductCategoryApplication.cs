@@ -42,6 +42,9 @@ namespace ShopManagement.Application.Contracts.ProductCategories
         /// <returns>list of ProductCategoryViewModel</returns>
         List<ProductCategoryviewModel> Search(ProductCategorySearchModel command);
 
+        List<ProductCategoryviewModel> GetProductCategories();
+
+
         OperationResult GetAll();
 
 

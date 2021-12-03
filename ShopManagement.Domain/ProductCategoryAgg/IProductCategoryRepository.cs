@@ -24,5 +24,9 @@ namespace ShopManagement.Domain.ProductCategoryAgg
         /// <param name="searchModel"></param>
         /// <returns> a list of ProductCategoryViewModel..</returns>
         List<ProductCategoryviewModel> Search(ProductCategorySearchModel searchModel);
+
+
+        List<ProductCategoryviewModel> GetProductCategories();
+
     }
 }
