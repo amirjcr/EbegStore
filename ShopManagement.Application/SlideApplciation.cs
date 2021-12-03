@@ -24,7 +24,7 @@ namespace ShopManagement.Application
             var slide = new Slide(command.PictureName,
                 command.PictureAlt, command.PictureTitel,
                 command.Heading, command.Titel, command.Text,
-                command.BtnText);
+                command.BtnText,command.Link);
 
 
             _slideRepository.Create(slide);
@@ -45,7 +45,7 @@ namespace ShopManagement.Application
 
             slide.Data.Edit(command.PictureName, command.PictureAlt,
                 command.PictureTitel, command.Heading, command.Titel
-                , command.Text, command.BtnText);
+                , command.Text, command.BtnText,command.Link);
 
 
             _slideRepository.SaveChanges();

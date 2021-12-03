@@ -595,6 +595,19 @@
           }
         }
       },
+      "01_EBegSiteQuery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopManagement.Infrastructuer.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01_EBegSiteQuery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01_EBegSiteQuery.dll": {}
+        }
+      },
       "Custom_FrameWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1829,6 +1842,11 @@
         "version.txt"
       ]
     },
+    "01_EBegSiteQuery/1.0.0": {
+      "type": "project",
+      "path": "../01_EBegSiteQuery/01_EBegSiteQuery.csproj",
+      "msbuildProject": "../01_EBegSiteQuery/01_EBegSiteQuery.csproj"
+    },
     "Custom_FrameWork/1.0.0": {
       "type": "project",
       "path": "../Custom_FrameWork/Custom_FrameWork.csproj",
@@ -1857,6 +1875,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "01_EBegSiteQuery >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
       "ShopManagement.Application >= 1.0.0",
       "ShopManagement.Infrastructuer.EFCore >= 1.0.0"
@@ -1889,6 +1908,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "F:\\Projects\\Atria\\EBegStore\\01_EBegSiteQuery\\01_EBegSiteQuery.csproj": {
+              "projectPath": "F:\\Projects\\Atria\\EBegStore\\01_EBegSiteQuery\\01_EBegSiteQuery.csproj"
+            },
             "F:\\Projects\\Atria\\EBegStore\\ShopManagement.Application\\ShopManagement.Application.csproj": {
               "projectPath": "F:\\Projects\\Atria\\EBegStore\\ShopManagement.Application\\ShopManagement.Application.csproj"
             },

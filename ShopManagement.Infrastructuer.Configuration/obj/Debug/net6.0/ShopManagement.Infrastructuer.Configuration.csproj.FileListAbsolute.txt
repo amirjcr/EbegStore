@@ -21,3 +21,5 @@ F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debu
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ShopManagement.Infrastructuer.Configuration.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ref\ShopManagement.Infrastructuer.Configuration.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ShopManagement.Infrastructuer.Configuration.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\01_EBegSiteQuery.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\01_EBegSiteQuery.pdb

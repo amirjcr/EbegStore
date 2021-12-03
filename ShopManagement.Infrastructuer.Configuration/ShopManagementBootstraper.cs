@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using _01_EBegSiteQuery.Contracts.Slides;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using ShopManagement.Application;
@@ -32,6 +33,9 @@ namespace ShopManagement.Infrastructuer.Configuration
             services.AddTransient<IProductPictureApplication, ProductPictureApplication>();
             services.AddTransient<ISlideRepository, SlideRepositorycs>();
             services.AddTransient<ISlideApplication, SlideApplciation>();
+
+
+            services.AddTransient<ISlideQuery, SlideQuery>();
             services.AddDbContext<ShopContext>(options => options.UseSqlServer(configuration.GetConnectionString("defaultConnection")));
 
 

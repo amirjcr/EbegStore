@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\01_EBegSiteQuery\01_EBegSiteQuery.csproj" />
     <ProjectReference Include="..\ShopManagement.Application\ShopManagement.Application.csproj" />
     <ProjectReference Include="..\ShopManagement.Infrastructuer.EFCore\ShopManagement.Infrastructuer.EFCore.csproj" />
   </ItemGroup>

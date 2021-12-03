@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EndPoint", "EndPoint", "{EA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{E15B75B4-899C-4CFA-AA17-6B0C84AE3E81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_EBegSiteQuery", "01_EBegSiteQuery\01_EBegSiteQuery.csproj", "{0F225F83-5FED-4098-9EF6-F977C7403717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{E15B75B4-899C-4CFA-AA17-6B0C84AE3E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E15B75B4-899C-4CFA-AA17-6B0C84AE3E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E15B75B4-899C-4CFA-AA17-6B0C84AE3E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F225F83-5FED-4098-9EF6-F977C7403717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F225F83-5FED-4098-9EF6-F977C7403717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F225F83-5FED-4098-9EF6-F977C7403717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F225F83-5FED-4098-9EF6-F977C7403717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -205,6 +205,9 @@ namespace ShopManagement.Infrastructuer.EFCore.Migrations
                     b.Property<bool>("IsRemoved")
                         .HasColumnType("bit");
 
+                    b.Property<string>("Link")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("PictureAlt")
                         .HasColumnType("nvarchar(max)");
 

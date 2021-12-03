@@ -620,6 +620,19 @@
           }
         }
       },
+      "01_EBegSiteQuery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ShopManagement.Infrastructuer.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01_EBegSiteQuery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01_EBegSiteQuery.dll": {}
+        }
+      },
       "Custom_FrameWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -678,6 +691,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "01_EBegSiteQuery": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
           "ShopManagement.Application": "1.0.0",
           "ShopManagement.Infrastructuer.EFCore": "1.0.0"
@@ -1899,6 +1913,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "01_EBegSiteQuery/1.0.0": {
+      "type": "project",
+      "path": "../01_EBegSiteQuery/01_EBegSiteQuery.csproj",
+      "msbuildProject": "../01_EBegSiteQuery/01_EBegSiteQuery.csproj"
     },
     "Custom_FrameWork/1.0.0": {
       "type": "project",

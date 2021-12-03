@@ -60,9 +60,7 @@ F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\ShopManagement.Domain.p
 F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\ShopManagement.Infrastructuer.EFCore.pdb
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\staticwebassets.build.json
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\staticwebassets.development.json
-F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\scopedcss\bundle\ServiceHost.styles.css
-F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\scopedcss\projectbundle\ServiceHost.bundle.scp.css
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ServiceHost.csproj.CopyComplete
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ServiceHost.dll
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
@@ -70,3 +68,5 @@ F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ServiceHost.pdb
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
 F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\Humanizer.dll
 F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\01_EBegSiteQuery.dll
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\01_EBegSiteQuery.pdb
