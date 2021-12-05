@@ -2,11 +2,13 @@ F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debu
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ShopManagement.Infrastructuer.Configuration.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ref\ShopManagement.Infrastructuer.Configuration.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ShopManagement.Infrastructuer.Configuration.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\01_EBegSiteQuery.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\Custom_FrameWork.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ShopManagement.Application.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ShopManagement.Domain.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ShopManagement.Infrastructuer.EFCore.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\01_EBegSiteQuery.pdb
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ShopManagement.Application.pdb
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\ShopManagement.Infrastructuer.EFCore.pdb
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\Custom_FrameWork.pdb
@@ -21,5 +23,3 @@ F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debu
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ShopManagement.Infrastructuer.Configuration.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ref\ShopManagement.Infrastructuer.Configuration.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ShopManagement.Infrastructuer.Configuration.pdb
-F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\01_EBegSiteQuery.dll
-F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\01_EBegSiteQuery.pdb

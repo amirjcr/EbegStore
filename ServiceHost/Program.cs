@@ -1,3 +1,4 @@
+using DiscountManagement.Infrastructure.Configuration;
 using ShopManagement.Infrastructuer.Configuration;
 
 
@@ -8,6 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 #region ShopBootstarper
 ShopManagementBootstraper.Configuration(builder.Services, builder.Configuration);
+#endregion
+#region DiscountBootstrapper
+DiscountManagementBootstraper.Configure(builder.Services, builder.Configuration.GetConnectionString("defaultConnection"));
 #endregion
 
 // Add services to the container.

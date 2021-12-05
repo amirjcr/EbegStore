@@ -59,7 +59,7 @@ namespace ShopManagement.Infrastructuer.EFCore.Repository
                 Name = x.Name,
                 PictureName = x.PictureName,
                 UnitPrice = x.UnitPrice,
-                CreatationDate = x.CreationDate.ToString(),
+                CreatationDate = x.CreationDate.ToFarsi(),
                 IsInStock = x.IsInStock
             });
 

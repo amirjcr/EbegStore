@@ -46,8 +46,10 @@ $(document).ready(function () {
     $("#MainModal").on("shown.bs.modal",
         function () {
             window.location.hash = "##";
-            $('.persianDateInput').persianDatepicker({
+            $(".persianDateInput").persianDatepicker({
+                observer: true,
                 format: 'YYYY/MM/DD',
+                altfield: '.observer-example-alt',
                 autoClose: true
             });
         });
