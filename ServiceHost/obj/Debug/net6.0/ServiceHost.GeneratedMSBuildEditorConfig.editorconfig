@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\Projects\Atria\EBegStore\ServiceHost
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/Projects/Atria/EBegStore/ServiceHost/Areas/Admin/Pages/Discount/ColleagueDiscounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGlzY291bnRcQ29sbGVhZ3VlRGlzY291bnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/Atria/EBegStore/ServiceHost/Areas/Admin/Pages/Discount/ColleagueDiscounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGlzY291bnRcQ29sbGVhZ3VlRGlzY291bnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Projects/Atria/EBegStore/ServiceHost/Areas/Admin/Pages/Discount/ColleagueDiscounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGlzY291bnRcQ29sbGVhZ3VlRGlzY291bnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Projects/Atria/EBegStore/ServiceHost/Areas/Admin/Pages/Discount/CustomerDiscounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRGlzY291bnRcQ3VzdG9tZXJEaXNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
