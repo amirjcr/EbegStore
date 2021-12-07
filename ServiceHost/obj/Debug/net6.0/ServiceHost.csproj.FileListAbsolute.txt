@@ -80,3 +80,11 @@ F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ServiceHost.dll
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ref\ServiceHost.dll
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ServiceHost.pdb
 F:\Projects\Atria\EBegStore\ServiceHost\obj\Debug\net6.0\ServiceHost.genruntimeconfig.cache
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Domain.dll
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructuer.Bootstrapper.dll
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.dll
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructuer.Bootstrapper.pdb
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Domain.pdb
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb

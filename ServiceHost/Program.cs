@@ -1,4 +1,5 @@
 using DiscountManagement.Infrastructure.Configuration;
+using InventoryManagement.Infrastructuer.Bootstrapper;
 using ShopManagement.Infrastructuer.Configuration;
 
 
@@ -12,6 +13,10 @@ ShopManagementBootstraper.Configuration(builder.Services, builder.Configuration)
 #endregion
 #region DiscountBootstrapper
 DiscountManagementBootstraper.Configure(builder.Services, builder.Configuration.GetConnectionString("defaultConnection"));
+#endregion
+
+#region InventoryBootstrapper
+InventoryBootstrapper.Configure(builder.Services, builder.Configuration.GetConnectionString("defaultConnection"));
 #endregion
 
 // Add services to the container.

@@ -1,0 +1,15 @@
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\bin\Debug\net6.0\InventoryManagement.Application.Contract.deps.json
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\bin\Debug\net6.0\ref\InventoryManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\bin\Debug\net6.0\Custom_FrameWork.dll
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\bin\Debug\net6.0\Custom_FrameWork.pdb
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.csproj.AssemblyReference.cache
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.AssemblyInfoInputs.cache
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.AssemblyInfo.cs
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.csproj.CoreCompileInputs.cache
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.csproj.CopyComplete
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\ref\InventoryManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\InventoryManagement.Application.Contract\obj\Debug\net6.0\InventoryManagement.Application.Contract.pdb

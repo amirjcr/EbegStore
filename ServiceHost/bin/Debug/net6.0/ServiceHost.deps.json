@@ -9,6 +9,7 @@
       "ServiceHost/1.0.0": {
         "dependencies": {
           "DiscountManagement.Infrastructure.Configuration": "1.0.0",
+          "InventoryManagement.Infrastructuer.Bootstrapper": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.0",
           "ShopManagement.Infrastructuer.Configuration": "1.0.0"
         },
@@ -487,6 +488,43 @@
           "DiscountManagement.Infrastructure.Configuration.dll": {}
         }
       },
+      "InventoryManagement.Application.Contract/1.0.0": {
+        "dependencies": {
+          "Custom_FrameWork": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagement.Application.Contract.dll": {}
+        }
+      },
+      "InventoryManagement.Domain/1.0.0": {
+        "dependencies": {
+          "Custom_FrameWork": "1.0.0",
+          "InventoryManagement.Application.Contract": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagement.Domain.dll": {}
+        }
+      },
+      "InventoryManagement.Infrastructuer.Bootstrapper/1.0.0": {
+        "dependencies": {
+          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "InventoryManagement.Infrastructuer.Bootstrapper.dll": {}
+        }
+      },
+      "InventoryManagement.Infrastructure.EFCore/1.0.0": {
+        "dependencies": {
+          "InventoryManagement.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0",
+          "ShopManagement.Infrastructuer.EFCore": "1.0.0"
+        },
+        "runtime": {
+          "InventoryManagement.Infrastructure.EFCore.dll": {}
+        }
+      },
       "ShopManagement.Application/1.0.0": {
         "dependencies": {
           "ShopManagement.Application.Contracts": "1.0.0",
@@ -868,6 +906,26 @@
       "sha512": ""
     },
     "DiscountManagement.Infrastructure.Configuration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagement.Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagement.Infrastructuer.Bootstrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InventoryManagement.Infrastructure.EFCore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

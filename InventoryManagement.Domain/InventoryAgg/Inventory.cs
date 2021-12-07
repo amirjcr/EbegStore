@@ -22,7 +22,7 @@ namespace InventoryManagement.Domain.InventoryAgg
         public ICollection<InventoryOperation> Operation { get; set; }
 
 
-        private long CalculateCurrentCount()
+        public long CalculateCurrentCount()
         {
             var plus = Operation.Where(c => c.Operation).Sum(x => x.Count);
             var minus = Operation.Where(c => !c.Operation).Sum(x => x.Count);
@@ -46,6 +46,13 @@ namespace InventoryManagement.Domain.InventoryAgg
             Operation.Add(operation);
             InStock = currentcount > 0;
 
+        }
+
+
+        public void Edit(long productId, decimal unitPrice)
+        {
+            ProductId = productId;
+            UnitPrice = unitPrice;
         }
     }
 
