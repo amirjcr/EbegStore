@@ -28,8 +28,7 @@ namespace ShopManagement.Application
 
             var slug = Sulgfy.GenerateSulg(command.Slug);
 
-            var product = new Product(command.Name, command.Code, command.UnitPrice,
-                command.IsInStock, command.ShortDescription, command.Description,
+            var product = new Product(command.Name, command.Code, command.ShortDescription, command.Description,
                 command.PictureName, command.PictureAlt, command.PictureTitel, slug,
                 command.KeyWords, command.MetaDescription, command.CategoryId);
 
@@ -48,43 +47,6 @@ namespace ShopManagement.Application
             return _productRepository.Search(searchmodel); ;
         }
 
-        public OperationResult IsInStock(long id)
-        {
-            var operation = new OperationResult();
-
-            var product = _productRepository.GetbyId(id);
-
-            if (product == null)
-                return operation.OnFailer(ApplicationMessages.RecordNotFount);
-
-            product.Data.Instock();
-
-            var saveresult = _productRepository.SaveChanges();
-
-            if (saveresult > 0)
-                return operation.OnSuccess();
-            else
-                return operation.OnFailer(ApplicationMessages.ErrorWhileSaveign);
-        }
-
-        public OperationResult NotInStock(long id)
-        {
-            var operation = new OperationResult();
-
-            var product = _productRepository.GetbyId(id);
-
-            if (product == null)
-                return operation.OnFailer(ApplicationMessages.RecordNotFount);
-
-            product.Data.NotInstock();
-
-            var saveresult = _productRepository.SaveChanges();
-
-            if (saveresult > 0)
-                return operation.OnSuccess();
-            else
-                return operation.OnFailer(ApplicationMessages.ErrorWhileSaveign);
-        }
 
         public OperationResult Update(EditProduct command)
         {
@@ -101,7 +63,7 @@ namespace ShopManagement.Application
 
             var slug = Sulgfy.GenerateSulg(command.Slug);
 
-            product.Data.Edit(command.Name, command.Code, command.UnitPrice, command.IsInStock, command.ShortDescription, command.Description,
+            product.Data.Edit(command.Name, command.Code, command.ShortDescription, command.Description,
                 command.PictureName, command.PictureAlt, command.PictureTitel, slug, command.KeyWords, command.MetaDescription);
 
 

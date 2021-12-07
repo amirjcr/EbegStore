@@ -10,7 +10,6 @@ F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\ShopManagement.Inf
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\Custom_FrameWork.pdb
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\ShopManagement.Domain.pdb
-F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.csproj.AssemblyReference.cache
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.GeneratedMSBuildEditorConfig.editorconfig
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.AssemblyInfoInputs.cache
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.AssemblyInfo.cs
@@ -19,3 +18,4 @@ F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.c
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.dll
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\ref\01_EBegSiteQuery.dll
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.pdb
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.csproj.AssemblyReference.cache

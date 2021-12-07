@@ -90,7 +90,17 @@
       "ProjectGuid": "30ab80eb-048d-4ca0-8933-d2401fa71c63",
       "DisplayName": "InventoryManagement.Infrastructure.EFCore",
       "ColorIndex": 0
+    },
+    "4a27e23a-ffa2-4355-a8b1-fb21fcc854d1": {
+      "ProjectGuid": "4a27e23a-ffa2-4355-a8b1-fb21fcc854d1",
+      "DisplayName": "InventoryManagement.Infrastructuer.Bootstrapper",
+      "ColorIndex": 1
+    },
+    "2b8f3ae2-4f19-4a61-8a3b-a442d3cfadf4": {
+      "ProjectGuid": "2b8f3ae2-4f19-4a61-8a3b-a442d3cfadf4",
+      "DisplayName": "InventoryManagement.Application",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

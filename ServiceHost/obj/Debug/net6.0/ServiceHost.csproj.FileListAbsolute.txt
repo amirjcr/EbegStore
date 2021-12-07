@@ -88,3 +88,5 @@ F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Inf
 F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
 F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Domain.pdb
 F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.dll
+F:\Projects\Atria\EBegStore\ServiceHost\bin\Debug\net6.0\InventoryManagement.Application.pdb

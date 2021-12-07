@@ -90,6 +90,9 @@
             "projectReferences": {
               "F:\\Projects\\Atria\\EBegStore\\Custom_FrameWork\\Custom_FrameWork.csproj": {
                 "projectPath": "F:\\Projects\\Atria\\EBegStore\\Custom_FrameWork\\Custom_FrameWork.csproj"
+              },
+              "F:\\Projects\\Atria\\EBegStore\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\Atria\\EBegStore\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }

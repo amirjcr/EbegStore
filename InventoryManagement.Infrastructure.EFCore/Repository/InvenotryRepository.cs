@@ -1,4 +1,5 @@
-﻿using Custom_FrameWork.Infrastructure;
+﻿using Custom_FrameWork.Application;
+using Custom_FrameWork.Infrastructure;
 using InventoryManagement.Application.Contract.Inventories;
 using InventoryManagement.Domain.InventoryAgg;
 using ShopManagement.Infrastructuer.EFCore;
@@ -35,6 +36,24 @@ namespace InventoryManagement.Infrastructure.EFCore.Repository
             }).FirstOrDefault(x => x.Id == Id);
         }
 
+        public List<InventoryOperatiaonViewmodel> GetOperation(long inventoryId)
+        {
+           var inventory = _context.Inventories.FirstOrDefault(x=>x.Id == inventoryId);
+
+            return inventory.Operation.AsQueryable().Select(x => new InventoryOperatiaonViewmodel
+            {
+                Count = x.Count,
+                CurentCount = x.CurentCount, 
+                Description = x.Description,
+                Id = x.Id,  
+                OerderId = x.OerderId,
+                OperratorId = x.OperratorId,
+                OpreatorName = "مدیریت",
+                OperationDate = x.OperationDate.ToFarsi(),
+                Operation = x.Operation
+            }).OrderByDescending(x=>x.Id).ToList();
+        }
+
         public List<InventoryViewModel> Search(InventorySearchModel model)
         {
             var products  = _shopContext.Products.AsQueryable().Select(x => new { x.Id, x.Name });
@@ -45,7 +64,8 @@ namespace InventoryManagement.Infrastructure.EFCore.Repository
                 UnitPrice = x.UnitPrice,
                 Instock = x.InStock,
                 Productid = x.ProductId,
-                CurrentCount = x.CalculateCurrentCount()
+                CurrentCount = x.CalculateCurrentCount(),
+                CreationDate = x.CreationDate.ToFarsi()
             });
 
 

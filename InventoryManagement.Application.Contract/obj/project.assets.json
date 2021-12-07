@@ -204,6 +204,19 @@
         "runtime": {
           "bin/placeholder/Custom_FrameWork.dll": {}
         }
+      },
+      "ShopManagement.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Custom_FrameWork": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopManagement.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManagement.Application.Contracts.dll": {}
+        }
       }
     }
   },
@@ -534,11 +547,17 @@
       "type": "project",
       "path": "../Custom_FrameWork/Custom_FrameWork.csproj",
       "msbuildProject": "../Custom_FrameWork/Custom_FrameWork.csproj"
+    },
+    "ShopManagement.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../ShopManagement.Application.Contracts/ShopManagement.Application.Contracts.csproj",
+      "msbuildProject": "../ShopManagement.Application.Contracts/ShopManagement.Application.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Custom_FrameWork >= 1.0.0"
+      "Custom_FrameWork >= 1.0.0",
+      "ShopManagement.Application.Contracts >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -570,6 +589,9 @@
           "projectReferences": {
             "F:\\Projects\\Atria\\EBegStore\\Custom_FrameWork\\Custom_FrameWork.csproj": {
               "projectPath": "F:\\Projects\\Atria\\EBegStore\\Custom_FrameWork\\Custom_FrameWork.csproj"
+            },
+            "F:\\Projects\\Atria\\EBegStore\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+              "projectPath": "F:\\Projects\\Atria\\EBegStore\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
             }
           }
         }

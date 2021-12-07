@@ -42,9 +42,6 @@ namespace ShopManagement.Infrastructuer.EFCore.Migrations
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<bool>("IsInStock")
-                        .HasColumnType("bit");
-
                     b.Property<string>("KeyWords")
                         .HasColumnType("nvarchar(max)");
 
@@ -68,9 +65,6 @@ namespace ShopManagement.Infrastructuer.EFCore.Migrations
 
                     b.Property<string>("Slug")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<double>("UnitPrice")
-                        .HasColumnType("float");
 
                     b.Property<DateTime>("UpDateDate")
                         .HasColumnType("datetime2");

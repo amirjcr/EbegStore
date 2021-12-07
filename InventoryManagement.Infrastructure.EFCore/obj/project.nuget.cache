@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ADO40nNeuNSfBot4q6foAWZsf4rf6ZHL6iTeOixX3Ty5N/QBDAD859N2heHZzHbIItvpvnSCzUOoisbVmw916Q==",
+  "dgSpecHash": "tgYZl/cgNmDrvly4Kjt7MPYseMaKWkR12ORdovrwgfMky3gDl07qQJKbUnL58V6v3Eb+2oPmbhDxgpIGfoPAtg==",
   "success": true,
   "projectFilePath": "F:\\Projects\\Atria\\EBegStore\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [

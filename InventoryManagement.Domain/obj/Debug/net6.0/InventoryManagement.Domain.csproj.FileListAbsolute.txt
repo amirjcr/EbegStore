@@ -15,3 +15,5 @@ F:\Projects\Atria\EBegStore\InventoryManagement.Domain\obj\Debug\net6.0\Inventor
 F:\Projects\Atria\EBegStore\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.dll
 F:\Projects\Atria\EBegStore\InventoryManagement.Domain\obj\Debug\net6.0\ref\InventoryManagement.Domain.dll
 F:\Projects\Atria\EBegStore\InventoryManagement.Domain\obj\Debug\net6.0\InventoryManagement.Domain.pdb
+F:\Projects\Atria\EBegStore\InventoryManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
+F:\Projects\Atria\EBegStore\InventoryManagement.Domain\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb

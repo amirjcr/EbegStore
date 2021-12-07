@@ -12,8 +12,7 @@ namespace ShopManagement.Domain.ProductAgg
     public class Product : EntityBase
     {
         public Product(string name,
-            string code, double unitPrice,
-            bool isInStock, string shortDescription,
+            string code, string shortDescription,
             string description, string pictureName, string pictureAlt,
             string pictureTitel, string slug, string keyWords,
             string metaDescription,
@@ -21,8 +20,7 @@ namespace ShopManagement.Domain.ProductAgg
         {
             Name = name;
             Code = code;
-            UnitPrice = unitPrice;
-            IsInStock = isInStock;
+
             ShortDescription = shortDescription;
             Description = description;
             PictureName = pictureName;
@@ -36,8 +34,6 @@ namespace ShopManagement.Domain.ProductAgg
 
         public string Name { get; private set; }
         public string Code { get; private set; }
-        public double UnitPrice { get; private set; }
-        public bool IsInStock { get; private set; }
         public string ShortDescription { get; private set; }
         public string Description { get; private set; }
         public string PictureName { get; private set; }
@@ -55,16 +51,13 @@ namespace ShopManagement.Domain.ProductAgg
 
 
         public void Edit(string name,
-    string code, double unitPrice,
-    bool isInStock, string shortDescription,
+    string code, string shortDescription,
     string description, string pictureName, string pictureAlt,
     string pictureTitel, string slug, string keyWords,
     string metaDescription)
         {
             Name = name;
             Code = code;
-            UnitPrice = unitPrice;
-            IsInStock = isInStock;
             ShortDescription = shortDescription;
             Description = description;
             PictureName = pictureName;
@@ -74,10 +67,6 @@ namespace ShopManagement.Domain.ProductAgg
             KeyWords = keyWords;
             MetaDescription = metaDescription;
         }
-
-
-        public void Instock() => this.IsInStock = true;
-        public void NotInstock() => this.IsInStock = false;
     }
 }
 

@@ -67,7 +67,6 @@
                                     <th>نام</th>
                                     <th>کد</th>
                                     <th>گروه</th>
-                                    <th>قیمت</th>
                                     <th>تاریخ تولید</th>
                                     <th>عملیات</th>
                                 </tr>
@@ -83,7 +82,6 @@
                                         <td>@item.Name</td>
                                         <td>@item.Code</td>
                                         <td>@item.Category</td>
-                                        <td>@item.UnitPrice</td>
                                         <td>@item.CreatationDate</td>
                                         <td>
                                             <a class="btn btn-success btn-custom waves-effect m-b-5"
@@ -91,16 +89,6 @@
                                                 <i class="fa fa-edit"></i>
                                                 ویرایش
                                             </a>
-
-                                            @if (item.IsInStock)
-                                            {
-                                                <a class="btn btn-danger btn-custom waves-effect m-b-5" asp-page="./Index" asp-page-handler="NotInStock">اتمام موجودی</a>
-                                            }
-                                            else
-                                            {
-                                                <a class="btn btn-primary btn-custom waves-effect m-b-5" asp-page="./Index" asp-page-handler="InStock">موجود شد</a>
-                                            }
-
                                         </td>
                                     </tr>
                                 }

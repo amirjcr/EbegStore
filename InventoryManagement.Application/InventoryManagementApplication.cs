@@ -60,6 +60,11 @@ namespace InventoryManagement.Application
            return _repository.GetDetails(id);
         }
 
+        public List<InventoryOperatiaonViewmodel> GetOperation(long inventoryId)
+        {
+           return _repository.GetOperation(inventoryId);
+        }
+
         public OperationResult Increase(IncreaseInventory command)
         {
             var operation = new OperationResult();

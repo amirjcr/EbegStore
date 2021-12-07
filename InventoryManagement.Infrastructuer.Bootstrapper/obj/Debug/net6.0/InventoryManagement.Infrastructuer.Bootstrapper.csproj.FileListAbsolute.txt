@@ -25,3 +25,5 @@ F:\Projects\Atria\EBegStore\InventoryManagement.Infrastructuer.Bootstrapper\obj\
 F:\Projects\Atria\EBegStore\InventoryManagement.Infrastructuer.Bootstrapper\obj\Debug\net6.0\InventoryManagement.Infrastructuer.Bootstrapper.dll
 F:\Projects\Atria\EBegStore\InventoryManagement.Infrastructuer.Bootstrapper\obj\Debug\net6.0\ref\InventoryManagement.Infrastructuer.Bootstrapper.dll
 F:\Projects\Atria\EBegStore\InventoryManagement.Infrastructuer.Bootstrapper\obj\Debug\net6.0\InventoryManagement.Infrastructuer.Bootstrapper.pdb
+F:\Projects\Atria\EBegStore\InventoryManagement.Infrastructuer.Bootstrapper\bin\Debug\net6.0\InventoryManagement.Application.dll
+F:\Projects\Atria\EBegStore\InventoryManagement.Infrastructuer.Bootstrapper\bin\Debug\net6.0\InventoryManagement.Application.pdb
