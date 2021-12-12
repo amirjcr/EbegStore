@@ -23,3 +23,15 @@ F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debu
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ShopManagement.Infrastructuer.Configuration.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ref\ShopManagement.Infrastructuer.Configuration.dll
 F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\obj\Debug\net6.0\ShopManagement.Infrastructuer.Configuration.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\DiscountManagement.Domain.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\DiscountManagement.Infrastructuer.EFCore.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.dll
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\DiscountManagement.Domain.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\DiscountManagement.Infrastructuer.EFCore.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\InventoryManagement.Domain.pdb
+F:\Projects\Atria\EBegStore\ShopManagement.Infrastructuer.Configuration\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb

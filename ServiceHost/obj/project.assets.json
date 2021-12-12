@@ -624,6 +624,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "DiscountManagement.Infrastructuer.EFCore": "1.0.0",
+          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
           "ShopManagement.Infrastructuer.EFCore": "1.0.0"
         },
         "compile": {
@@ -2149,6 +2151,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "01_EBegSiteQuery >= 1.0.0",
       "DiscountManagement.Infrastructure.Configuration >= 1.0.0",
       "InventoryManagement.Infrastructuer.Bootstrapper >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.0",
@@ -2182,6 +2185,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "F:\\Projects\\Atria\\EBegStore\\01_EBegSiteQuery\\01_EBegSiteQuery.csproj": {
+              "projectPath": "F:\\Projects\\Atria\\EBegStore\\01_EBegSiteQuery\\01_EBegSiteQuery.csproj"
+            },
             "F:\\Projects\\Atria\\EBegStore\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj": {
               "projectPath": "F:\\Projects\\Atria\\EBegStore\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj"
             },

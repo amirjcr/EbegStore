@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "ServiceHost/1.0.0": {
         "dependencies": {
+          "01_EBegSiteQuery": "1.0.0",
           "DiscountManagement.Infrastructure.Configuration": "1.0.0",
           "InventoryManagement.Infrastructuer.Bootstrapper": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.0",
@@ -425,6 +426,8 @@
       },
       "01_EBegSiteQuery/1.0.0": {
         "dependencies": {
+          "DiscountManagement.Infrastructuer.EFCore": "1.0.0",
+          "InventoryManagement.Infrastructure.EFCore": "1.0.0",
           "ShopManagement.Infrastructuer.EFCore": "1.0.0"
         },
         "runtime": {

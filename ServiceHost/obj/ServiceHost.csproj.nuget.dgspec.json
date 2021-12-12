@@ -28,6 +28,12 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "F:\\Projects\\Atria\\EBegStore\\DiscountManagement.Infrastructuer.EFCore\\DiscountManagement.Infrastructuer.EFCore.csproj": {
+                "projectPath": "F:\\Projects\\Atria\\EBegStore\\DiscountManagement.Infrastructuer.EFCore\\DiscountManagement.Infrastructuer.EFCore.csproj"
+              },
+              "F:\\Projects\\Atria\\EBegStore\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "F:\\Projects\\Atria\\EBegStore\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj"
+              },
               "F:\\Projects\\Atria\\EBegStore\\ShopManagement.Infrastructuer.EFCore\\ShopManagement.Infrastructuer.EFCore.csproj": {
                 "projectPath": "F:\\Projects\\Atria\\EBegStore\\ShopManagement.Infrastructuer.EFCore\\ShopManagement.Infrastructuer.EFCore.csproj"
               }
@@ -803,6 +809,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "F:\\Projects\\Atria\\EBegStore\\01_EBegSiteQuery\\01_EBegSiteQuery.csproj": {
+                "projectPath": "F:\\Projects\\Atria\\EBegStore\\01_EBegSiteQuery\\01_EBegSiteQuery.csproj"
+              },
               "F:\\Projects\\Atria\\EBegStore\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj": {
                 "projectPath": "F:\\Projects\\Atria\\EBegStore\\DiscountManagement.Infrastructure.Configuration\\DiscountManagement.Infrastructure.Configuration.csproj"
               },

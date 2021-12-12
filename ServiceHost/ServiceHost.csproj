@@ -14,9 +14,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\01_EBegSiteQuery\01_EBegSiteQuery.csproj" />
     <ProjectReference Include="..\DiscountManagement.Infrastructure.Configuration\DiscountManagement.Infrastructure.Configuration.csproj" />
     <ProjectReference Include="..\InventoryManagement.Infrastructuer.Bootstrapper\InventoryManagement.Infrastructuer.Bootstrapper.csproj" />
     <ProjectReference Include="..\ShopManagement.Infrastructuer.Configuration\ShopManagement.Infrastructuer.Configuration.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\ProductPictures\" />
   </ItemGroup>
 
 </Project>

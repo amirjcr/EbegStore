@@ -3,6 +3,7 @@
     public interface IproductCategoryQuery
     {
         List<ProductCategoryQueryModel> GetProductCategories();
+        List<ProductCategoryQueryModel> GetProductCategoriesWithProducts();
     }
 
 }

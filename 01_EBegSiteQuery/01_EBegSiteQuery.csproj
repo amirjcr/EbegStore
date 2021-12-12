@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DiscountManagement.Infrastructuer.EFCore\DiscountManagement.Infrastructuer.EFCore.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Infrastructure.EFCore\InventoryManagement.Infrastructure.EFCore.csproj" />
     <ProjectReference Include="..\ShopManagement.Infrastructuer.EFCore\ShopManagement.Infrastructuer.EFCore.csproj" />
   </ItemGroup>
 

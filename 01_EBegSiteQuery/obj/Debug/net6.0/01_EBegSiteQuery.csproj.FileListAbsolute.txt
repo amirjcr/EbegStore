@@ -19,3 +19,15 @@ F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.d
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\ref\01_EBegSiteQuery.dll
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.pdb
 F:\Projects\Atria\EBegStore\01_EBegSiteQuery\obj\Debug\net6.0\01_EBegSiteQuery.csproj.AssemblyReference.cache
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\DiscountManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\DiscountManagement.Domain.dll
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\DiscountManagement.Infrastructuer.EFCore.dll
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\InventoryManagement.Application.Contract.dll
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\InventoryManagement.Domain.dll
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.dll
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\DiscountManagement.Infrastructuer.EFCore.pdb
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\InventoryManagement.Infrastructure.EFCore.pdb
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\DiscountManagement.Application.Contract.pdb
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\DiscountManagement.Domain.pdb
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\InventoryManagement.Application.Contract.pdb
+F:\Projects\Atria\EBegStore\01_EBegSiteQuery\bin\Debug\net6.0\InventoryManagement.Domain.pdb
