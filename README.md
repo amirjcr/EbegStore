@@ -20,4 +20,4 @@ It not Compeleted yet :(
 
 for run this application you should pre installed sql server and net 6 sdks
 
-there is a context per modual so for creating the data base you have to specified the context for those whom dont know
+there is a context per modual so for creating the data base you have to specified the context while using update-database command or useing dotnet ef database update  for those whom dont know
